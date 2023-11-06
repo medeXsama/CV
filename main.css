@@ -1,0 +1,17 @@
+img{
+  float: right;
+  width: 500px;
+  height: 400px;
+  margin-left: 15px;
+}
+
+.biru{
+  background-color: rgb(11, 11, 11);
+}
+.navbar-brand {
+  color: #dddddd;
+}
+
+h1 {
+  color: #595656;
+}
